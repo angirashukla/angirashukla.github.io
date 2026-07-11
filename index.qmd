@@ -13,7 +13,7 @@ pagetitle: "Angira Shukla"
 Incoming PhD Student in Economics, University of Chicago
 :::
 
-I am an incoming Economics PhD student at the University of Chicago (starting Fall 2026). I was a predoc with Oeindrila Dube at the Becker Friedman Institute, where my work spanned political economy and development.
+I am an incoming Economics PhD student at the University of Chicago (starting Fall 2026). I was a predoc with Oeindrila Dube at the Becker Friedman Institute, where my work spanned political economy and development economics.
 
 My research interests sit at the intersection of **development and environmental economics** — how climate and environmental change shape the lives of vulnerable populations, and how policy can address the resulting market failures. I work with primary surveys, satellite and geospatial data, and large-scale administrative datasets.
 
