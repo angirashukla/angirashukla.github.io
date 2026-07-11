@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research applies causal-inference and structural methods to questions in development and environmental economics, often for vulnerable populations in India."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nDo Commonalities Foster Altruistic Transfers? Multi-Country Evidence on Experimental Donations to Children\nwith Bruce Wydick, Alessandra Cassar, Samantha Kassirer, Maryam Kouchaki, Lucius Caviola, and Luvuyo Magwaza · 2025\n\n\nAbstract\n\n\nWe develop a simple microeconomic framework to model and predict altruistic transfers from a potential giver to a potential receiver. We then present results from a novel experiment carried out among 2,334 adults in urban and rural areas of India, South Africa, and the United States, who were asked to give money to two children, “Anika” and “William.” Each child was randomly assigned characteristics to potentially match a participant’s gender, country, community, religion, family size, favorite hobby, affliction, and (in India) caste. Tobit estimations find that while both women and men increased giving on country matches, women also significantly increased donations based on commonalities in religion, hobby, and affliction; men instead increased giving when children’s incomes were lower. Common caste did not influence transfers in India. Structural estimations of our model parameters largely support the importance of commonalities in religion and shared hobbies, especially among women and rural givers.\n\n\n\n\nImpact of Agricultural Policies on Crop Residue Burning in India\nwith Kajal Gulati and Andrew Hobbs · 2023\n\n\nAbstract\n\n\nSome agricultural practices are profitable for farmers but harmful to public health and the environment, creating a market failure. Crop residue (stubble) burning to prepare land for a new crop is one such practice, widespread in Punjab, Haryana, and Uttar Pradesh and linked to severe air pollution. Governments have introduced price- and quantity-corrective policies — fines, subsidies for alternatives, awareness campaigns, and payments not to burn. Using a synthetic control method, we estimate the causal impact of these measures on the incidence of agricultural fires. We find that the policies did not significantly reduce fires; the reduction would need to be roughly three times as large to be statistically detectable, and even then would be unlikely to meaningfully change air pollution levels in New Delhi.\n\n\n\n\nTemperature Effects on Prevalence of Sexually Transmitted Infections among At-Risk Female Sex Workers in India\nwith Rajshri Suresh, Jesse Anttila-Hughes, and Shikhar Mehra · 2023\n\n\nAbstract\n\n\nClimate change affects vulnerable groups disproportionately. We study female sex workers in India, who face elevated risk of sexually transmitted infections (STIs), and ask whether temperature is related to STI prevalence. We find a non-linear relationship, with elevated STI risk at extremely hot temperatures. We also find no increase in risky behavior on condom use, but an increase in solicitation and a decrease in alcohol consumption among these women at high temperatures."
+  },
+  {
+    "objectID": "research.html#earlier-work",
+    "href": "research.html#earlier-work",
+    "title": "Research",
+    "section": "Earlier Work",
+    "text": "Earlier Work\n\nCharity Begins at Home: Investigating How Culture Shapes In-Group Bias in Altruistic Behavior\nMaster’s Thesis, University of San Francisco · 2023\n\n\nAbstract\n\n\nThis paper investigates how identity and cultural context shape altruistic preferences, focusing on how multiple identity characteristics interact in decision-making. I model altruistic preferences as a function of identity, culture, and need-based factors, and run an experiment in two cultural contexts — traditional and cosmopolitan — in India. Need-based factors, such as the efficiency of transfers and the relative income of the recipient, are the primary drivers of altruistic behavior across both groups. However, the cosmopolitan group showed a strong preference for giving to girls regardless of the sender’s gender — most pronounced among men — diverging from the sender–receiver gender match typically seen in traditional settings.\n\n\n\n\nMenstrual Health Sensitisation, Attitudes and Scholastic Performance: Evidence from Impact Evaluation in Delhi–NCR\nwith Animesh Gadre and Mrinal Tomar · 2020\n\n\nAbstract\n\n\nStigma around menstruation in India encumbers schoolgirls academically. This paper evaluates two interventions — distribution of sanitary pads and menstrual health sensitisation sessions — on the scholastic performance of girls, in collaboration with the CSR Research Foundation. We find the program positively sensitises schoolboys toward menstruation and increases the attendance and self-esteem of schoolgirls, but has no significant effect on extra-curricular participation. Owing to COVID-19, the analysis is limited to the short run."
+  },
+  {
+    "objectID": "photography.html",
+    "href": "photography.html",
+    "title": "Photography",
+    "section": "",
+    "text": "A selection of photographs from my camera. Click any image to view it full-size."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Angira Shukla",
+    "section": "",
+    "text": "Angira Shukla\nHi! I’m an incoming PhD student at the Department of Economics at the University of Chicago. My research interests are development economics, political economy, and environmental economics. Prior to this, I worked at the Becker Friedman Institute as a predoc with Oeindrila Dube. I’ve designed behavioral experiments and RCTs, and worked with satellite and geospatial data and large-scale administrative datasets.\nBefore Chicago, I did my master’s in International and Development Economics at the University of San Francisco and my bachelor’s in Economics from Ramjas College, University of Delhi.\n\n✉ Email CV GitHub LinkedIn Twitter/X\n\n\n\nIn the wild, you can spot me data sleuthing, finding exogenous variation, hosting movie nights, or doing the occasional photography. Here’s today’s pick of my photos."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download PDF\n\n\n\nYour browser cannot display the embedded PDF. Download it here instead."
+  }
+]
