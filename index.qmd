@@ -9,13 +9,9 @@ pagetitle: "Angira Shukla"
 ::: {.intro}
 # Angira Shukla
 
-::: {.tagline}
-Incoming PhD Student in Economics, University of Chicago
-:::
+Hi! I'm an incoming PhD student at the Department of Economics at the University of Chicago. My research interests are development economics, political economy, and environmental economics. Prior to this, I worked at the Becker Friedman Institute as a predoc with Oeindrila Dube. I've designed behavioral experiments and RCTs, and worked with satellite and geospatial data and large-scale administrative datasets.
 
-I am an incoming Economics PhD student at the University of Chicago (starting Fall 2026). I was a predoc with Oeindrila Dube at the Becker Friedman Institute, where my work spanned political economy and development economics.
-
-My research interests sit at the intersection of **development and environmental economics** — how climate and environmental change shape the lives of vulnerable populations, and how policy can address the resulting market failures. I work with primary surveys, satellite and geospatial data, and large-scale administrative datasets.
+Before Chicago, I did my master's in International and Development Economics at the University of San Francisco and my bachelor's in Economics from Ramjas College, University of Delhi.
 
 ::: {.contact-links}
 [✉ Email](mailto:angira.shukla@gmail.com)
@@ -28,15 +24,7 @@ My research interests sit at the intersection of **development and environmental
 :::
 :::
 
-## About
-
-Before Chicago, I earned an MS in International and Development Economics from the University of San Francisco, where I received the Jacques Artus Award and the Schmidt Family Fellowship, and a BA (Honors) in Economics from Ramjas College, University of Delhi. I have worked on field experiments in Nigeria and India, and on research using satellite-derived fire and weather data across Indian states.
-
-See my [research](research.qmd) for current and past projects, my [CV](cv.qmd) for the full record, and [photography](photography.qmd) for work from my camera.
-
-## Photos of the Day
-
-A rotating handful from my camera — a new set each day. See [more](photography.qmd).
+In the wild, you can spot me data sleuthing, finding exogenous variation, hosting movie nights, or doing the occasional photography. Here's today's pick of my photos.
 
 <div class="potd" id="potd"></div>
 
