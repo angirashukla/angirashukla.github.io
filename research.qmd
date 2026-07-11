@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-My research applies causal-inference and structural methods to questions in development and environmental economics, often for vulnerable populations in India. Abstracts are collapsed below — click a title to expand.
+My research applies causal-inference and structural methods to questions in development and environmental economics, often for vulnerable populations in India.
 
 ## Working Papers
 
