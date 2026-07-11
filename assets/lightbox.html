@@ -1,0 +1,21 @@
+<!-- Site-wide lightbox: any <img class="zoomable"> opens full-size on click.
+     Uses event delegation so dynamically-added images (Photos of the Day) work too. -->
+<div id="lightbox-overlay" role="dialog" aria-modal="true" aria-label="Photo viewer">
+  <img id="lightbox-img" alt="" />
+</div>
+<script>
+(function () {
+  var overlay = document.getElementById("lightbox-overlay");
+  var big = document.getElementById("lightbox-img");
+  function close() { overlay.classList.remove("open"); big.src = ""; }
+  document.addEventListener("click", function (e) {
+    var t = e.target;
+    if (t && t.tagName === "IMG" && t.classList.contains("zoomable")) {
+      big.src = t.src; big.alt = t.alt || ""; overlay.classList.add("open");
+    } else if (overlay.classList.contains("open")) {
+      close();
+    }
+  });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape") close(); });
+})();
+</script>

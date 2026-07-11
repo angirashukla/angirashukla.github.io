@@ -39,5 +39,6 @@ format:
       - cosmo
       - custom.scss
     toc: false
+    include-after-body: assets/lightbox.html
     grid:
       body-width: 900px

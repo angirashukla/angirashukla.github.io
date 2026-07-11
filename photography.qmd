@@ -25,33 +25,8 @@ if (length(imgs) == 0) {
   for (f in imgs) {
     src <- file.path("photos", f)
     alt <- tools::file_path_sans_ext(f)
-    cat(sprintf('  <img src="%s" alt="%s" loading="lazy" />\n', src, alt))
+    cat(sprintf('  <img class="zoomable" src="%s" alt="%s" loading="lazy" />\n', src, alt))
   }
   cat('</div>\n')
 }
-```
-
-```{=html}
-<!-- Minimal self-contained lightbox: click a thumbnail to view it full-size -->
-<div id="lightbox-overlay" role="dialog" aria-modal="true" aria-label="Photo viewer">
-  <img id="lightbox-img" alt="" />
-</div>
-<script>
-(function () {
-  var overlay = document.getElementById("lightbox-overlay");
-  var big = document.getElementById("lightbox-img");
-  document.querySelectorAll(".gallery img").forEach(function (thumb) {
-    thumb.addEventListener("click", function () {
-      big.src = thumb.src;
-      big.alt = thumb.alt;
-      overlay.classList.add("open");
-    });
-  });
-  function close() { overlay.classList.remove("open"); big.src = ""; }
-  overlay.addEventListener("click", close);
-  document.addEventListener("keydown", function (e) {
-    if (e.key === "Escape") close();
-  });
-})();
-</script>
 ```
