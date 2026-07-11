@@ -1,0 +1,131 @@
+/*-- scss:defaults --*/
+
+// A clean, quiet academic palette
+$font-family-sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+$primary: #642822;   // UChicago maroon, used sparingly for links/accents
+$body-color: #2b2b2b;
+$link-color: $primary;
+$navbar-bg: #ffffff;
+$font-size-root: 18px;
+
+/*-- scss:rules --*/
+
+body {
+  line-height: 1.6;
+}
+
+// Navbar: understated, thin bottom rule
+.navbar {
+  border-bottom: 1px solid #ececec;
+  font-weight: 500;
+}
+.navbar-title {
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+// Intro / about layout
+.profile-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 2rem;
+  margin: 1.5rem 0 2.5rem;
+}
+.profile-header img.headshot {
+  width: 220px;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 6px;
+  flex: 0 0 auto;
+}
+.profile-header .intro {
+  flex: 1 1 320px;
+}
+.profile-header h1 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+.profile-header .tagline {
+  color: #6b6b6b;
+  font-size: 1.05rem;
+  margin-bottom: 1rem;
+}
+
+// Contact / link row
+.contact-links {
+  margin-top: 1rem;
+}
+.contact-links a {
+  display: inline-block;
+  margin-right: 1.1rem;
+  text-decoration: none;
+  font-weight: 500;
+}
+.contact-links a:hover { text-decoration: underline; }
+
+// Research entries
+.paper {
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid #efefef;
+}
+.paper:last-child { border-bottom: none; }
+.paper .title {
+  font-weight: 600;
+  font-size: 1.08rem;
+}
+.paper .meta {
+  color: #6b6b6b;
+  font-size: 0.95rem;
+  margin: 0.15rem 0 0.4rem;
+}
+.paper details summary {
+  cursor: pointer;
+  color: $primary;
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+.paper details p {
+  margin-top: 0.6rem;
+  font-size: 0.97rem;
+  color: #3a3a3a;
+}
+
+// Photography grid
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 12px;
+  margin-top: 1.5rem;
+}
+.gallery img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 4px;
+  cursor: zoom-in;
+  transition: opacity 0.15s ease;
+}
+.gallery img:hover { opacity: 0.9; }
+
+// Lightbox overlay
+#lightbox-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 2000;
+  background: rgba(0, 0, 0, 0.9);
+  cursor: zoom-out;
+  align-items: center;
+  justify-content: center;
+  padding: 3vh 3vw;
+}
+#lightbox-overlay.open { display: flex; }
+#lightbox-overlay img {
+  max-width: 100%;
+  max-height: 94vh;
+  object-fit: contain;
+  border-radius: 3px;
+  box-shadow: 0 4px 40px rgba(0, 0, 0, 0.5);
+}

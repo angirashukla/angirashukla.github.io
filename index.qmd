@@ -1,0 +1,33 @@
+---
+title: ""
+pagetitle: "Angira Shukla"
+---
+
+::: {.profile-header}
+![](assets/headshot.jpg){.headshot fig-alt="Angira Shukla"}
+
+::: {.intro}
+# Angira Shukla
+
+::: {.tagline}
+Incoming PhD Student in Economics, University of Chicago
+:::
+
+I am an incoming Economics PhD student at the University of Chicago (starting Fall 2026). I currently work as a Research Professional at the Becker Friedman Institute with [Oeindrila Dube](https://oeindriladube.com/), where my work spans development, environmental, and behavioral economics.
+
+My research interests sit at the intersection of **development and environmental economics** — how climate and environmental change shape the lives of vulnerable populations, and how policy can address the resulting market failures. I work with primary surveys, satellite and geospatial data, and large-scale administrative datasets.
+
+::: {.contact-links}
+[✉ Email](mailto:angira.shukla@gmail.com)
+[CV](cv.qmd)
+[GitHub](https://github.com/angirashukla)
+:::
+
+:::
+:::
+
+## About
+
+Before Chicago, I earned an MS in International and Development Economics from the University of San Francisco, where I received the Jacques Artus Award and the Schmidt Family Fellowship, and a BA (Honors) in Economics from Ramjas College, University of Delhi. I have worked on field experiments in Nigeria and India, and on research using satellite-derived fire and weather data across Indian states.
+
+See my [research](research.qmd) for current and past projects, my [CV](cv.qmd) for the full record, and [photography](photography.qmd) for work from my camera.

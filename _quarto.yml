@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Angira Shukla"
+  description: "Angira Shukla — incoming Economics PhD student at the University of Chicago."
+  site-url: "https://angirashukla.github.io"
+  favicon: assets/headshot.jpg
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
+      - href: photography.qmd
+        text: Photography
+    right:
+      - icon: envelope
+        href: "mailto:angira.shukla@gmail.com"
+        aria-label: Email
+      - icon: github
+        href: "https://github.com/angirashukla"
+        aria-label: GitHub
+  page-footer:
+    center: "© 2026 Angira Shukla"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    toc: false
+    grid:
+      body-width: 900px
