@@ -1,5 +1,6 @@
 ---
 title: "Photography"
+page-layout: full
 ---
 
 A selection of photographs from my camera. Click any image to view it full-size.
