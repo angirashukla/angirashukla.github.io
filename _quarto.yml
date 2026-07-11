@@ -24,6 +24,12 @@ website:
       - icon: github
         href: "https://github.com/angirashukla"
         aria-label: GitHub
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/angira-shukla/"
+        aria-label: LinkedIn
+      - icon: twitter-x
+        href: "https://x.com/ShuklaAngira"
+        aria-label: Twitter/X
   page-footer:
     center: "© 2026 Angira Shukla"
 
