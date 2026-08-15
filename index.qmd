@@ -14,11 +14,10 @@ Hi! I'm an incoming PhD student at the Department of Economics at the University
 Before Chicago, I did my master's in International and Development Economics at the University of San Francisco and my bachelor's in Economics from Ramjas College, University of Delhi.
 
 ::: {.contact-links}
-[✉ Email](mailto:angira.shukla@gmail.com)
+[Email](mailto:angira.shukla@gmail.com)
 [CV](cv.qmd)
 [GitHub](https://github.com/angirashukla)
 [LinkedIn](https://www.linkedin.com/in/angira-shukla/)
-[Twitter/X](https://x.com/ShuklaAngira)
 :::
 
 :::

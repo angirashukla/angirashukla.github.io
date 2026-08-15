@@ -75,6 +75,19 @@ body {
   font-weight: 600;
   font-size: 1.08rem;
 }
+.paper .status {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-transform: uppercase;
+  color: $primary;
+  border: 1px solid rgba($primary, 0.35);
+  border-radius: 3px;
+  padding: 0.05rem 0.4rem;
+  margin-left: 0.5rem;
+  vertical-align: middle;
+}
 .paper .meta {
   color: #6b6b6b;
   font-size: 0.95rem;
