@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Angira Shukla"
-  description: "Angira Shukla — incoming Economics PhD student at the University of Chicago."
+  description: "Angira Shukla — first-year Economics PhD student at the University of Chicago."
   site-url: "https://angirashukla.github.io"
   favicon: assets/headshot.jpg
   navbar:
